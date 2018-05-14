@@ -16,3 +16,16 @@ for details see this document https://docs.us-phoenix-1.oraclecloud.com/Content/
 
 This terraform script creates all required resources
 
+`terraform init`
+
+`terraform plan`
+
+`terraform apply`
+
+...
+
+`terraform destroy`
+
+
+
+
